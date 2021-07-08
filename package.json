@@ -8,7 +8,7 @@
     "dev": "nodemon index.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "Erika Ojanperä",
+  "author": "Erika",
   "license": "ISC",
   "dependencies": {
     "cors": "^2.8.5",
